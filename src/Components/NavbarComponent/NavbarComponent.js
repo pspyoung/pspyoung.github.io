@@ -13,26 +13,14 @@ function NavbarComponent() {
 		<>
 			<Navbar bg="primary" variant="dark">
 				<Container>
-					<Navbar.Brand href="#home">Navbar</Navbar.Brand>
+					<Navbar.Brand href="/about">About</Navbar.Brand>
 					<Nav className="me-auto">
-						<Nav.Link href="/">About</Nav.Link>
+						{/* <Nav.Link href="/about">About</Nav.Link> */}
 						<Nav.Link href="/skills">Skills and Technical Projects</Nav.Link>
 						<Nav.Link href="/connect">Connect with me!</Nav.Link>
 					</Nav>
 				</Container>
 			</Navbar>
-
-			{/* <div>
-				<Link to="/">
-					<h6>About</h6>
-				</Link>
-				<Link to="/skills">
-					<h6>Skills and Technical Projects</h6>
-				</Link>
-				<Link to="/contact">
-					<h6>Connect with me!</h6>
-				</Link>
-			</div> */}
 		</>
 	);
 }
