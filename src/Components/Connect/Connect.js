@@ -1,7 +1,6 @@
 import React from 'react';
 
-
-function Connect(props) {
+function Connect() {
 	return <div>Connect Component</div>;
 }
 

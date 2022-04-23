@@ -1,10 +1,10 @@
 import React from 'react';
 
-function About(props) {
+function About() {
 	return (
 		<div>
 			<p> about component </p>
-			{/* <p>
+			<p>
 				I am a Full Stack Developer with an MA in Sport Psychology. I studied
 				Sport Psychology to learn how people perform at their best, and
 				transferred those skills in Social Work to solve everyday problems.
@@ -16,7 +16,7 @@ function About(props) {
 				My code is similar to my work with people: looking at the application or
 				person as a whole, with great attention to detail, and with the client’s
 				best interest at heart.
-			</p> */}
+			</p>
 		</div>
 	);
 }
