@@ -5,7 +5,7 @@ import { Nav, Navbar } from 'react-bootstrap';
 
 function NavbarComponent() {
 	return (
-		<Navbar bg="primary" variant="dark" className="navBar">
+		<Navbar bg="primary" action variant="dark" className="navBar">
 			<Container>
 				<Navbar.Brand href="/about">About</Navbar.Brand>
 				<Nav className="me-auto">
