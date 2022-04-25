@@ -1,3 +1,5 @@
+
+
 .pic {
     float: left; 
     max-height: 25vh;
@@ -8,3 +10,15 @@
 
 .aboutContainer {
     margin: 2%;}
+
+.technologies {
+    font-weight: bold;
+}
+
+.projectDesc {
+    font-style: italic;
+}
+
+.skillsHeaders {
+    margin: 1%; 
+}

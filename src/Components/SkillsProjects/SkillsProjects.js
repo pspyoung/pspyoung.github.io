@@ -4,7 +4,7 @@ import { Container, Badge } from 'react-bootstrap';
 function Skills_projects() {
 	return (
 		<Container>
-			<h1 className="d-flex justify-content-center">
+			<h1 className="d-flex justify-content-center skillsHeaders">
 				<Badge bg="info">Technical Skills</Badge>
 			</h1>
 			<li>Languages: Python, JavaScript, HTML, CSS, SQL, Mongo, JSON </li>
@@ -17,7 +17,7 @@ function Skills_projects() {
 				Databases and other: PostgreSQL, MongoDB, RESTful Routing, JSON API
 			</li>
 
-			<h1 className="d-flex justify-content-center">
+			<h1 className="d-flex justify-content-center skillsHeaders">
 				<Badge bg="info">Technical Projects</Badge>
 			</h1>
 
