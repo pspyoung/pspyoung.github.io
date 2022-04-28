@@ -5,19 +5,6 @@ function Skills_projects() {
 	return (
 		<Container>
 			<h1 className="d-flex justify-content-center skillsHeaders">
-				<Badge bg="info">Technical Skills</Badge>
-			</h1>
-			<li>Languages: Python, JavaScript, HTML, CSS, SQL, Mongo, JSON </li>
-
-			<li>
-				Libraries and Frameworks: React, Express.js, Django, Jquery, Bootstrap,
-				Bulma, Material UI
-			</li>
-			<li>
-				Databases and other: PostgreSQL, MongoDB, RESTful Routing, JSON API
-			</li>
-
-			<h1 className="d-flex justify-content-center skillsHeaders">
 				<Badge bg="info">Technical Projects</Badge>
 			</h1>
 
@@ -25,8 +12,10 @@ function Skills_projects() {
 			<p>
 				<h5>
 					pongScores -{''} <a href="https://github.com/pongScores">GitHub</a>,{' '}
-					<a href="https://pongscores.netlify.app/">App</a>{' '}
-				</h5>{' '}
+					<a href="https://pongscores.netlify.app/">App</a>,{' '}
+					<a href="/images/Ps1.png">Screenshot</a>,{' '}
+					<a href="/images/Ps2.png">Screenshot</a>
+				</h5>
 				<section className="technologies">
 					JavaScript, MongoDB/Mongoose.js, Express, React, Node.js, MaterialUI
 				</section>
@@ -46,7 +35,8 @@ function Skills_projects() {
 			<p>
 				<h5>
 					Pomodoro App - <a href="https://github.com/Team-Clippers">GitHub</a>,{' '}
-					<a href="https://pomodoro176.netlify.app/">App</a>
+					<a href="https://pomodoro176.netlify.app/">App</a>,{' '}
+					<a href="/images/Pom1.png">Screenshot</a>
 				</h5>
 				<section className="technologies">
 					JavaScript, HTML, CSS, MongoDB/Mongoose.js, Express, React, Node.js
@@ -69,7 +59,9 @@ function Skills_projects() {
 				<h5>
 					Clash Royale Cards API -{' '}
 					<a href="https://github.com/pspyoung/bootcamp-project-one">GitHub</a>,{' '}
-					<a href="https://crcardsapi.netlify.app/">App</a>
+					<a href="https://crcardsapi.netlify.app/">App</a>,{' '}
+					<a href="/images/Cr1.png">Screenshot</a>,{' '}
+					<a href="/images/Cr2.png">Screenshot</a>
 				</h5>
 				<section className="technologies">JavaScript, HTML, CSS, React</section>
 				<section className="projectDesc">
@@ -89,7 +81,8 @@ function Skills_projects() {
 				<h5>
 					I’m Beary Excited! -{' '}
 					<a href="https://github.com/pspyoung/Bootcamp-project-zero">GitHub</a>
-					, <a href="https://pspyoung.github.io/Bootcamp-project-zero/">App</a>
+					, <a href="https://pspyoung.github.io/Bootcamp-project-zero/">App</a>,{' '}
+					<a href="/images/Bear1.png">Screenshot</a>
 				</h5>
 				<section className="technologies">JavaScript, HTML, CSS, Bulma</section>
 				<section className="projectDesc">

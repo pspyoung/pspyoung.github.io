@@ -2,7 +2,8 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import About from './Components/About/About';
 import Connect from './Components/Connect/Connect';
-import SkillsProjects from './Components/SkillsProjects/SkillsProjects';
+import Projects from './Components/Projects/Projects';
+import Footer from './Components/Footer/Footer';
 import { Routes, Route } from 'react-router-dom';
 import NavbarComponent from './Components/NavbarComponent/NavbarComponent';
 
@@ -15,9 +16,10 @@ function App() {
 					<Routes>
 						<Route path="/" element={<About />} />
 						<Route path="/about" element={<About />} />
-						<Route path="/skills" element={<SkillsProjects />} />
+						<Route path="/projects" element={<Projects />} />
 						<Route path="/connect" element={<Connect />} />
 					</Routes>
+					<Footer />
 				</div>
 			</main>
 		</div>
