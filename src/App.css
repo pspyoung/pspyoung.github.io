@@ -1,3 +1,6 @@
+.App {
+
+}
 
 
 .pic {
@@ -24,8 +27,14 @@
 }
 
 .footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    text-align: center; 
+    position: fixed; 
+    margin-top: auto; 
+    height: auto; 
+}
+
+.main {
+display: flex;
+flex-direction: column;
+min-height: 100vh;
+    
 }

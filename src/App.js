@@ -19,9 +19,9 @@ function App() {
 						<Route path="/projects" element={<Projects />} />
 						<Route path="/connect" element={<Connect />} />
 					</Routes>
-					<Footer />
 				</div>
 			</main>
+			<Footer />
 		</div>
 	);
 }
