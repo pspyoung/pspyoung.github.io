@@ -1,6 +1,7 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
 
+// For potential future use
 function Connect(email, label) {
 	return (
 		<Container>

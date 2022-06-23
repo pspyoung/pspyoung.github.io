@@ -10,7 +10,6 @@ function NavbarComponent() {
 				<Navbar.Brand href="/about">About</Navbar.Brand>
 				<Nav>
 					<Nav.Link href="/projects">Technical Projects</Nav.Link>
-					<Nav.Link href="/connect">Connect with me!</Nav.Link>
 				</Nav>
 			</Container>
 		</Navbar>

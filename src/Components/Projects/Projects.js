@@ -11,6 +11,28 @@ function Skills_projects() {
 				{/* Projects Begins here */}
 				<p>
 					<h5>
+						SOAR -{''}{' '}
+						<a href="https://github.com/pspyoung/EdTechHackathon-frontend">
+							GitHub
+						</a>
+						, <a href="https://soar-learning-support.netlify.app/">App</a>,{' '}
+						<a href="/images/Soar1.png">Screenshot</a>,{' '}
+						<a href="/images/Soar2.png">Screenshot</a>
+					</h5>
+					<section className="technologies">
+						JavaScript, MongoDB/Mongoose.js, Express, React, Node.js, MaterialUI
+					</section>
+					<section className="projectDesc">
+						App/Dashboard with tools to help children with ADHD
+					</section>
+					<li>
+						Participated in a group of six, including UX/UI developers for a
+						72-hour GA Spring Hackathon event.
+					</li>
+					<li>Developed an app informed by UX/UI research and designs.</li>
+				</p>
+				<p>
+					<h5>
 						pongScores -{''} <a href="https://github.com/pongScores">GitHub</a>,{' '}
 						<a href="https://pongscores.netlify.app/">App</a>,{' '}
 						<a href="/images/Ps1.png">Screenshot</a>,{' '}

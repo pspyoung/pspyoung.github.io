@@ -9,9 +9,9 @@ function About() {
 				Psychology. I studied Sport Psychology to learn how people perform at
 				their best, and transferred those skills in Social Work to solve
 				everyday problems. After three-years of reacting to similar crises, I
-				wanted a more technically challenging career. Instead of applying
-				band-aids, I wanted to proactively create meaningful solutions. That’s
-				when I discovered and fell in love with coding. I enjoy the technical
+				longed for a more technically challenging career. Instead of offering
+				short term solutions, I wanted to create impactful results. That’s when
+				I discovered and fell in love with coding. I enjoy the technical
 				challenge, the immediate feedback of knowing when the code works, and
 				creating tangible results. My code is similar to my work with people:
 				looking at the application or person as a whole, with great attention to
